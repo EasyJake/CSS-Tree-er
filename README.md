@@ -190,3 +190,5 @@ Finally, let's style the submit button by adding the classes `btn btn-primary`
 ## Bonus
 
 You'll see in the `main.css` file that the `nav` `display` is set to `none`. Remove that code and go back to the mockup image. Use the Bootstrap documentation to get it styled like the mockup.
+
+easyJake
